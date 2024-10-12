@@ -7,7 +7,7 @@ sections:
       text: Venha você também para o mundo digital
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Chegou a sua hora!
     text: >
       Cria site é uma empresa especializada em criação de websites
     actions:
